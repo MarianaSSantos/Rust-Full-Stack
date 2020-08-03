@@ -130,7 +130,7 @@ Everything is simple with examples but it is not easy to make them with Rust.
 
 ## React and Rust web project demo that you can login
 
-[You can read server side code made with Rust Warp framework.](https://github.com/steadylearner/Rust-Warp-Example))
+[You can read server side code made with Rust Warp framework.](https://github.com/steadylearner/Rust-Warp-Example)
 
 [![React Rust demo](https://img.youtube.com/vi/I1iNhOuXESQ/0.jpg)](https://www.youtube.com/watch?v=I1iNhOuXESQ)
 
