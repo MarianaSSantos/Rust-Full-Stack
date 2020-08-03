@@ -130,6 +130,8 @@ Everything is simple with examples but it is not easy to make them with Rust.
 
 ## React and Rust web project demo that you can login
 
+[You can read server side code made with Rust Warp framework.](https://github.com/steadylearner/Rust-Warp-Example))
+
 [![React Rust demo](https://img.youtube.com/vi/I1iNhOuXESQ/0.jpg)](https://www.youtube.com/watch?v=I1iNhOuXESQ)
 
 ## Smart compose demo with React
@@ -316,7 +318,6 @@ If you have a potent machine and ready to wait all again, [refer to this.](https
 2. [Use it with React single page app.](https://github.com/steadylearner/Rust-Full-Stack/tree/master/React_Rust/server/warp)
 3. [CRUD REST API example with a database integration.](https://github.com/steadylearner/Rust-Full-Stack/tree/master/warp/database)
 4. [Use it with Tera template engine.](https://github.com/steadylearner/Rust-Full-Stack/tree/master/warp/tera_and_static_files)
-5. [Complicated example](https://github.com/steadylearner/Rust-Warp-Example)
 
 ## Frontend
 
