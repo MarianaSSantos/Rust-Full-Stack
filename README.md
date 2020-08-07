@@ -214,6 +214,7 @@ TypeScript
 * [rayon](https://github.com/rayon-rs/rayon), [crossbeam](https://github.com/crossbeam-rs/crossbeam), [easy-parallel](https://github.com/stjepang/easy-parallel), [fearles concurrency](https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html) etc for multithreading
 * [Rust + Tokio.rs + ElectronJs + React](https://www.reddit.com/r/rust/comments/hg73qw/rust_tokiors_electronjs_react_heaven/)
 * [RustPython](https://github.com/RustPython/RustPython)
+* [Yew + Rocket](https://github.com/alepez/devand) - I need to refer to it before I refactor or rewrite the Steadylearner.
 
 ## CLI
 
@@ -318,6 +319,7 @@ If you have a potent machine and ready to wait all again, [refer to this.](https
 2. [Use it with React single page app.](https://github.com/steadylearner/Rust-Full-Stack/tree/master/React_Rust/server/warp)
 3. [CRUD REST API example with a database integration.](https://github.com/steadylearner/Rust-Full-Stack/tree/master/warp/database)
 4. [Use it with Tera template engine.](https://github.com/steadylearner/Rust-Full-Stack/tree/master/warp/tera_and_static_files)
+5. [Rough login and private routes implemenation](https://github.com/steadylearner/Rust-Warp-Example) - Refer to [Yew + Rocket full stack example.](https://github.com/alepez/devand)
 
 ## Frontend
 
