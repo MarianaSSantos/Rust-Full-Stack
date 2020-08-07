@@ -458,3 +458,11 @@ I do what I want here. **It is a personal repository** to learn and prototype ne
 
 * [Teloxide subreddit and with_webserver bot.](https://github.com/teloxide/teloxide#community-bots)
 
+## READ MORE
+
+You have to know C and C++. They help you to learn and use Rust better.
+
+* [C](https://www.google.com/search?&q=the+c+programming+language)
+* [C++](https://www.learncpp.com)
+* [Rust](https://www.google.com/search?&q=programming+rust)
+* [How arc works in Rust](https://medium.com/@DylanKerler1/how-arc-works-in-rust-b06192acd0a6), [Explaning atomics in Rust](https://cfsamsonbooks.gitbook.io/explaining-atomics-in-rust/#acquire)
