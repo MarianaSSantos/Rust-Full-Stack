@@ -93,7 +93,8 @@ read/
 manifest.json
 build/
 
-# binary files from Golang
+# binary files from Golang, C or C++
 
 main
 go-to-do-app/
+cplusplus
